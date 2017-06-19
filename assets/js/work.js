@@ -50,6 +50,9 @@ function addNewTopicClickEventListener() {
 };
 
 // Functions
+
+function renderButtons;
+
 function checkTopicExists(newTopic) {
 	var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + newTopic  + "&limit=10&api_key=dc6zaTOxFJmzC";
 
