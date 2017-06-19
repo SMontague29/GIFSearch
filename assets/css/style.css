@@ -18,3 +18,87 @@ label {
 #topic-input {
 	width: 90%;
 }
+
+.btn-default {
+	color: #FFFFFF;
+	background-color: #4aaaa5;
+	margin: 1%;
+}
+
+.col-md-3 {
+	background-color: #DDDDDD;
+}
+
+.col-md-9 {
+	background-color: #DDDDDD;
+}
+
+.gif {
+	max-width: 100%;
+}
+
+.well {
+	border: none;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-default {
+	border: none;
+}
+
+.pull-left {
+  float: left !important;
+  max-width: 300px;
+  overflow: auto;
+  padding: 1%;
+}
+
+.pull-right {
+  float: right !important;
+  width: 100%;
+  overflow: auto;
+  padding: 1%;
+}
+
+.rating {
+	padding: 2%;
+}
+
+.row {
+	background-color: #DDDDDD;
+}
+
+@media screen and (max-width: 768px) {
+
+	#add-search {
+		margin-top: 10%;
+	}
+
+	#select-gif {
+		position: absolute;
+	  	top: 35px;
+	}
+
+	#display-gifs {
+		position: absolute;
+		top: 190px;
+	}
+}
+
+@media screen and (max-width: 640px) {
+
+#add-search {
+	margin-top: 10%;
+}
+
+#select-gif {
+  position: absolute;
+  top: 35px;
+}
+
+#display-gifs {
+	position: absolute;
+	top: 190p
