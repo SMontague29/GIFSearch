@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+	background-color: #DDDDDD;
+}
+
+label {
+	display: block;
+}
+
+#add-search {
+	margin: 2%;
+	font-size: 15px;
+}
+
+#topic-input {
+	width: 90%;
+}
